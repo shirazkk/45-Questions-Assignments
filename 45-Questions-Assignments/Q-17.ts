@@ -23,3 +23,4 @@ guestList1.forEach(guestinvite=>{
 
 guestList1.splice(0,2)
 console.log(guestList1);
+
