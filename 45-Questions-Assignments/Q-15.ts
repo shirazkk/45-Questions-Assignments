@@ -2,7 +2,7 @@ export
 let guestList1: string[] = ["Umair", "Hamza", "Taimoor"]; //old guestlist
 console.log(guestList1);
 
-let notAttending = "Hamza";
+let notAttending = guestList1[1]
 console.log(`${notAttending} can't attend dinner.`); //this guest not attend dinner
 
 let newGuest = "Mazz";

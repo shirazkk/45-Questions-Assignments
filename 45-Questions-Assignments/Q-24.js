@@ -11,7 +11,7 @@ let product2 = "WATCH".toLowerCase();
 console.log("Product1==Product2 is:", product1 == product2); //true
 let product3 = "WATCH".toLowerCase();
 let product4 = "watch".toUpperCase();
-console.log("Product1==Product2 is:", product3 == product4);
+console.log("Product3==Product4 is:", product3 == product4); //false
 let number1 = 1;
 let number2 = 10;
 console.log("1==10 is:", number1 == number2);

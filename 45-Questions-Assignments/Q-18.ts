@@ -11,5 +11,5 @@ console.log("Original Array", countries); //original Array.
 console.log("Reversed Array", countries.reverse()); //reverse the original array
 console.log("Original Array Restored:", countries.reverse()); //reverse it again so it restored in original array
 
-console.log("Sorted Array", countries.sort()); //use sort to make the original array in Alphabetical order
+console.log("Sorted Array", countries.sort()); //use sort to modified  original array in Alphabetical order
 console.log("Reverse Sorted Array", countries.sort().reverse()); //make original array in reverse alphabetical order
